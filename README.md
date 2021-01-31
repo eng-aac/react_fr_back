@@ -1,4 +1,4 @@
-> _This repository constitutes the backend of the Firt React Proyect (MERN) project._
+> _This repository constitutes the backend of the Firt React (MERN) project._
 
 &nbsp;
 
